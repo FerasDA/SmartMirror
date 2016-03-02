@@ -16,3 +16,4 @@
 //= require_tree .
 //= require bootstrap.min
 //= require clock.js
+//= require map.js
